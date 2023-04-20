@@ -1,0 +1,22 @@
+{
+    "name": "danial",
+    "age": 17,
+    "marks": {
+        "riazi": [
+            12,
+            15,
+            18
+        ],
+        "fizik": [
+            19,
+            20,
+            14
+        ]
+    },
+    "lessons": [
+        "honar",
+        "fizik"
+    ],
+    "family": "mohammadi",
+    "b": true
+}

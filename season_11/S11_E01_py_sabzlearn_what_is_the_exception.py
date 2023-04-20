@@ -1,0 +1,4 @@
+# Error
+# SyntaxError
+# RuntimeError (Exception)
+

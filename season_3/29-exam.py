@@ -1,0 +1,7 @@
+print('[%c]' % 72)
+print('%x %X' % (13, 13))
+print('Reza', 26, 'dolati', sep='*')
+print(type([]) is list)
+print(bool(0), bool(3.14159), bool(-3), bool(1.0+1j))
+print(0xFF)
+print(type(0xFF))
